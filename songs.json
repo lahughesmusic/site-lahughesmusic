@@ -1,0 +1,697 @@
+[
+    {
+        "title": "Afterthought",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Afterthought.mp3"
+    },
+    {
+        "title": "Ambient Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/ambient_loop.m4a"
+    },
+    {
+        "title": "Ambient Tension",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/ambient_tension.m4a"
+    },
+    {
+        "title": "Ambitious Piano",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/ambitious_piano.mp3"
+    },
+    {
+        "title": "Anchor noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/anchor-novox.m4a"
+    },
+    {
+        "title": "Anchor wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/anchorwvox.m4a"
+    },
+    {
+        "title": "Anticipating the Storm",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/anticipating_storm.m4a"
+    },
+    {
+        "title": "Anyone Listening?",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/anyone_listening.m4a"
+    },
+    {
+        "title": "Battle Chase",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/battle_chase.m4a"
+    },
+    {
+        "title": "Battle Vocals",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/battle_vocals.m4a"
+    },
+    {
+        "title": "Be Still",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/be_still.m4a"
+    },
+    {
+        "title": "Be",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/be.m4a"
+    },
+    {
+        "title": "Electronic Beat",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/beep_boop_beat.m4a"
+    },
+    {
+        "title": "Behind the Curtain",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/behind_the_curtain.m4a"
+    },
+    {
+        "title": "Big Band",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/BigBand.m4a"
+    },
+    {
+        "title": "Bouncy Morning",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/bouncy_morning.m4a"
+    },
+    {
+        "title": "Break Tweaker",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/breakTweaker_loop.m4a"
+    },
+    {
+        "title": "Bridge",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/BRIDGE.m4a"
+    },
+    {
+        "title": "Build A Life",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/build_a_life.m4a"
+    },
+    {
+        "title": "Case",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/CASE.m4a"
+    },
+    {
+        "title": "Castle",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/castle.m4a"
+    },
+    {
+        "title": "Chasing A thought",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/chasing_a_thought.m4a"
+    },
+    {
+        "title": "Color noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/color_NOVOX.m4a"
+    },
+    {
+        "title": "Color wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/color_WVOX.m4a"
+    },
+    {
+        "title": "Court",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/COURT_RO.m4a"
+    },
+    {
+        "title": "Darling",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/darling.m4a"
+    },
+    {
+        "title": "Delta",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Delta.mp3"
+    },
+    {
+        "title": "Distorted View",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/distorted_view.mp3"
+    },
+    {
+        "title": "Distortion",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/DISTORTION_NOVOX.m4a"
+    },
+    {
+        "title": "Distortion wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/DISTORTION_W:VOX.m4a"
+    },
+    {
+        "title": "Don't Go",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Don't_Go.m4a"
+    },
+    {
+        "title": "Dots",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/dots.m4a"
+    },
+    {
+        "title": "Drama in the Castle",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/drama_in_the_castle.m4a"
+    },
+    {
+        "title": "Dream",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Dream.m4a"
+    },
+    {
+        "title": "Dreaming in Strings",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/dreaming_in_strings.m4a"
+    },
+    {
+        "title": "You Said My Name",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/EDM_SUBMISSION_You_Said_My_Name.m4a"
+    },
+    {
+        "title": "Ever",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/ever.m4a"
+    },
+    {
+        "title": "Expiramental Loops",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/experimental_loops.m4a"
+    },
+    {
+        "title": "Fall",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/fall.m4a"
+    },
+    {
+        "title": "Fast Angels",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/fast_angles.m4a"
+    },
+    {
+        "title": "Fell noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/fellNOVOX.m4a"
+    },
+    {
+        "title": "Fell wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/fellWVOX.m4a"
+    },
+    {
+        "title": "Finally",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/FINALLY.mp3"
+    },
+    {
+        "title": "Frustrating Word",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/frustrating_word.m4a"
+    },
+    {
+        "title": "Fun Times",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/fun_times.m4a"
+    },
+    {
+        "title": "Giver",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/GIVER.08 2.m4a"
+    },
+    {
+        "title": "Give",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/GIVER.m4a"
+    },
+    {
+        "title": "Gone",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/gone.m4a"
+    },
+    {
+        "title": "Good Monsters",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/good_monsters.m4a"
+    },
+    {
+        "title": "Graceful Shadows",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Graceful_Shadows.mp3"
+    },
+    {
+        "title": "Guitar Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/guitar_loop.m4a"
+    },
+    {
+        "title": "Hey",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/hey.m4a"
+    },
+    {
+        "title": "Holding On",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/holding_on.m4a"
+    },
+    {
+        "title": "Home",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/home.mp3"
+    },
+    {
+        "title": "Hope Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/hope_loop.m4a"
+    },
+    {
+        "title": "Note Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/I_FOUND_A_NOTE_LOOP.m4a"
+    },
+    {
+        "title": "If Ever I Was Lost noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/if_ever_i_was_lostnovox.m4a"
+    },
+    {
+        "title": "Important Decisions",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/important_decision.m4a"
+    },
+    {
+        "title": "Injustice",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/INJUSTICE.m4a"
+    },
+    {
+        "title": "It's All Alright",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/it's_all_alright.m4a"
+    },
+    {
+        "title": "June Bug",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/j.m4a"
+    },
+    {
+        "title": "June",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/june_piano.m4a"
+    },
+    {
+        "title": "Kings",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/K.m4a"
+    },
+    {
+        "title": "King of the City",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/king_of_the_city.m4a"
+    },
+    {
+        "title": "Life",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/L_SOng.m4a"
+    },
+    {
+        "title": "Song Bird",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/l.m4a"
+    },
+    {
+        "title": "Look Away",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/look_away.m4a"
+    },
+    {
+        "title": "Look Up noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/LOOK_UPNOVOX.m4a"
+    },
+    {
+        "title": "Losing",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/losing.m4a"
+    },
+    {
+        "title": "Lost in the City",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/lost_in_the_city.m4a"
+    },
+    {
+        "title": "Love",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/LOVE.m4a"
+    },
+    {
+        "title": "Magical Moments",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/magical_moments.m4a"
+    },
+    {
+        "title": "Manana noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mananaNOVOX.m4a"
+    },
+    {
+        "title": "Manana wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mananaWVOX.m4a"
+    },
+    {
+        "title": "Massi",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Massi.mp3"
+    },
+    {
+        "title": "Memories Overcome",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/memories_overcome_me.m4a"
+    },
+    {
+        "title": "Mischevious Beat",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mischevious_beat.m4a"
+    },
+    {
+        "title": "Mud is Deep noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mud_is_deepnovox.m4a"
+    },
+    {
+        "title": "Mud is Deep wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mud_is_deepwvox.m4a"
+    },
+    {
+        "title": "Submissions",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/MUSIC_COLLECTIVE_SUBMISSION.m4a"
+    },
+    {
+        "title": "Mysterious Lab",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/mysterious_lab.m4a"
+    },
+    {
+        "title": "Never",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/NEVER.m4a"
+    },
+    {
+        "title": "New Beginnings",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/new_beginnings.m4a"
+    },
+    {
+        "title": "New World",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/new_world.m4a"
+    },
+    {
+        "title": "No One Else Did noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/no_one_else_did_NOVOX.m4a"
+    },
+    {
+        "title": "Ocean Eyes",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/ocean_eyes.m4a"
+    },
+    {
+        "title": "Playground Drama",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/playground_drama.m4a"
+    },
+    {
+        "title": "Progress",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/progress.m4a"
+    },
+    {
+        "title": "Promise noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/promiseNOVOX.m4a"
+    },
+    {
+        "title": "Promise wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/promiseWVOX.m4a"
+    },
+    {
+        "title": "Pull Me Up",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/pull_me_up.m4a"
+    },
+    {
+        "title": "Push",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/push.m4a"
+    },
+    {
+        "title": "Rather",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/rATHER.m4a"
+    },
+    {
+        "title": "Ringtone",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/RINGTONE.m4a"
+    },
+    {
+        "title": "Rise To The Challenges",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/rise_to_the_challenge.m4a"
+    },
+    {
+        "title": "Run",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/RUN.m4a"
+    },
+    {
+        "title": "Sail wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/saiW:VOX.m4a"
+    },
+    {
+        "title": "Sail noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/sailNOVOX.m4a"
+    },
+    {
+        "title": "Sailer wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/sailWVOX.m4a"
+    },
+    {
+        "title": "Save",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/sav.m4a"
+    },
+    {
+        "title": "Say I'm Gone",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SAYIMGONE.m4a"
+    },
+    {
+        "title": "Setback",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/setback.mp3"
+    },
+    {
+        "title": "Should I",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/should_i.m4a"
+    },
+    {
+        "title": "Shoulder",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/shoulder.m4a"
+    },
+    {
+        "title": "Shoulders",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Shoulders.mp3"
+    },
+    {
+        "title": "Sidechain",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SIDECHAIN.m4a"
+    },
+    {
+        "title": "Sleep noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SLEEPNOVOX.m4a"
+    },
+    {
+        "title": "Sleep wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SLEEPWVOX.m4a"
+    },
+    {
+        "title": "Sleep Ideas",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/sleepy_ideas.m4a"
+    },
+    {
+        "title": "Small Beat",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/small_beat.m4a"
+    },
+    {
+        "title": "Smooth noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SMOOTHNOVOX.m4a"
+    },
+    {
+        "title": "Smooth wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/SMOOTHWVOX.m4a"
+    },
+    {
+        "title": "Something Brewing",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/something_brewing.m4a"
+    },
+    {
+        "title": "Something in the Forest",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/something_in_the_forest.m4a"
+    },
+    {
+        "title": "Something's Coming",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/somethings_coming.m4a"
+    },
+    {
+        "title": "Still",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/still.m4a"
+    },
+    {
+        "title": "Tension",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/sundown_tension.m4a"
+    },
+    {
+        "title": "Suspense Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/suspense_loop.m4a"
+    },
+    {
+        "title": "Temporary Fall",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/temporary_fall.m4a"
+    },
+    {
+        "title": "Tenor",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/TENOR.m4a"
+    },
+    {
+        "title": "Tensions",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/tension.m4a"
+    },
+    {
+        "title": "To The Sea wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/to_the_sea_loveWVOX.m4a"
+    },
+    {
+        "title": "Travels",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/travel.m4a"
+    },
+    {
+        "title": "Unsure",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/unsure.m4a"
+    },
+    {
+        "title": "Up To No Good",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/up_to_no_good.m4a"
+    },
+    {
+        "title": "Vegas",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Vegas.mp3"
+    },
+    {
+        "title": "Venice Beach",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/venice_beach.m4a"
+    },
+    {
+        "title": "Waiting for Results",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/waiting_for_results.m4a"
+    },
+    {
+        "title": "What To Do",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/what_to_do.m4a"
+    },
+    {
+        "title": "When Will It Be Me",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/when_will_it_be_me.m4a"
+    },
+    {
+        "title": "Where Did She Go",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/where_did_she_go.m4a"
+    },
+    {
+        "title": "Whims Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/whims_loop.m4a"
+    },
+    {
+        "title": "Who Did It",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/who_did_it.m4a"
+    },
+    {
+        "title": "Why",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/why.mp3"
+    },
+    {
+        "title": "Monsters",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/WO_Monsters.m4a"
+    },
+    {
+        "title": "Words",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/words.m4a"
+    },
+    {
+        "title": "Work Loop",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/WORK_LOOP.m4a"
+    },
+    {
+        "title": "You Said My Name noVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/you_said_my_nameno_vox.m4a"
+    },
+    {
+        "title": "You Said My Name wVox",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/you_said_my_namewvox.m4a"
+    }
+]

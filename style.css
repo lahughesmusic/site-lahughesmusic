@@ -1,0 +1,234 @@
+/* =========================
+   COLOR PALETTE
+   =========================
+
+   Charcoal:     #17171A
+   Dark Gray:    #222226
+   Cream:        #F7F5F0
+   Warm White:   #FFFFFF
+   Gold Accent:  #B89B5E
+   Muted Text:   #77736B
+   Border:       #DEDAD1
+*/
+
+
+/* =========================
+   PAGE
+   ========================= */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #b1ab9e;
+    color: #222226;
+}
+
+
+/* =========================
+   HEADER
+   ========================= */
+
+.site-header {
+    background: #17171A;
+    border-bottom: 1px solid #2D2D31;
+}
+
+.header-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px 30px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.site-title {
+    color: #F7F5F0;
+    text-decoration: none;
+    font-size: 1.6rem;
+    font-weight: 700;
+    letter-spacing: -0.5px;
+}
+
+.main-nav {
+    display: flex;
+    gap: 30px;
+}
+
+.main-nav a {
+    color: #C9C6BE;
+    text-decoration: none;
+    font-size: 0.95rem;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.main-nav a:hover {
+    color: #B89B5E;
+}
+
+
+/* =========================
+   MAIN CONTENT
+   ========================= */
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 60px 30px;
+}
+
+main h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: #17171A;
+}
+
+.page-intro {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.page-intro p {
+    color: #77736B;
+    font-size: 1.1rem;
+}
+
+
+/* =========================
+   MUSIC SECTION
+   ========================= */
+
+#music-list {
+    width: 100%;
+    max-width: 700px;
+    height: 70%;
+    overflow-y: auto;
+
+    margin: 0 auto;
+    padding: 10px;
+
+    background: #17171A;
+    border: 1px solid #2D2D31;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+    box-shadow: 0 8px 25px rgba(23, 23, 26, 0.15);
+}
+
+.song {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 10px 12px;
+    margin-bottom: 6px;
+
+    background: #222226;
+    border: 1px solid #2D2D31;
+    border-radius: 6px;
+
+    transition: border-color 0.2s ease,
+        background 0.2s ease;
+}
+
+.song:hover {
+    background: #29292D;
+    border-color: #B89B5E;
+}
+
+.song-info {
+    margin: 0;
+}
+
+.song-info h3 {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+    color: #F7F5F0;
+}
+
+.song-info h2 {
+    margin: 0 0 4px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #F7F5F0;
+}
+
+.song-info p {
+    margin: 2px 0 0;
+    font-size: 11px;
+    color: #77736B;
+}
+
+
+.song audio {
+    width: 220px;
+    height: 32px;
+}
+
+
+/* =========================
+   AUDIO PLAYER
+   ========================= */
+
+.song audio {
+    width: 280px;
+    max-width: 100%;
+}
+
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.site-footer {
+    text-align: center;
+    padding: 30px;
+    color: #77736B;
+    border-top: 1px solid #DEDAD1;
+    background: #F7F5F0;
+}
+
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media (max-width: 700px) {
+
+    .header-inner {
+        padding: 18px 20px;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .main-nav {
+        gap: 20px;
+    }
+
+    main {
+        padding: 45px 20px;
+    }
+
+    main h1 {
+        font-size: 2rem;
+    }
+
+    .song {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        padding: 16px;
+    }
+
+    .song audio {
+        width: 100%;
+        max-width: none;
+    }
+
+    .main-nav {
+        gap: 15px;
+    }
+}

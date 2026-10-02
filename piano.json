@@ -1,0 +1,157 @@
+[
+    {
+        "title": "Adam's Song",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Adam'sSong.mp4"
+    },
+    {
+        "title": "America the Beautiful",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/AmericaTheBeautiful.mp4"
+    },
+    {
+        "title": "Beethoven's 5th Improvisation",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/beethoven.mp4"
+    },
+    {
+        "title": "Blackbird",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Blackbird.mp4"
+    },
+    {
+        "title": "Break My Heart Again",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/BreakMyHeartAgain.mp4"
+    },
+    {
+        "title": "Canon",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Canon.mp4"
+    },
+    {
+        "title": "Can't Help Falling in Love",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/CantHelpFallingInLove.mp4"
+    },
+    {
+        "title": "Defying Gravity",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/defying_gravity.mp4"
+    },
+    {
+        "title": "Divinire",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/divinire.mp4"
+    },
+    {
+        "title": "Fur Elise Improvisation",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/FurEliseImprov.mp4"
+    },
+    {
+        "title": "Heal",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Heal.mp4"
+    },
+    {
+        "title": "Hit the Road Jack",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/HitTheRoadJack.mp4"
+    },
+    {
+        "title": "How Great Thou Art",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/HowGreatThouArt.mp4"
+    },
+    {
+        "title": "I Hate It",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/ihateit1.mp4"
+    },
+    {
+        "title": "I'll Be There",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/illbethere.mp4"
+    },
+    {
+        "title": "I Need Thee",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/INeedThee.mp4"
+    },
+    {
+        "title": "Jesus Loves Me",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/JesusLovesMe.mp4"
+    },
+    {
+        "title": "Jolene",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Jolene.mp4"
+    },
+    {
+        "title": "Moonlight Sonata",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/moonlightsonata.mp4"
+    },
+    {
+        "title": "Moulin Rouge",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/moulinrouge.mp4"
+    },
+    {
+        "title": "Once Upon A December",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/OnceUponADecember.mp4"
+    },
+    {
+        "title": "Phantom of the Opera",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Phantom.mp4"
+    },
+    {
+        "title": "Requiem for a Dream",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/RequiemForADream.mp4"
+    },
+    {
+        "title": "On The Nature Of Daylight",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/ShutterIsland.mp4"
+    },
+    {
+        "title": "Over the Rainbow",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/SomewhereOverTheRainbow.mp4"
+    },
+    {
+        "title": "Over the Rainbow (mellow)",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/SomewhereOverTheRainbowSad.mp4"
+    },
+    {
+        "title": "Sound of Music",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/SoundOfMusic.mp4"
+    },
+    {
+        "title": "You Are My Sunshine (mellow)",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/Sunshine.mp4"
+    },
+    {
+        "title": "Sweet Child O' Mine",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/SweetChildOMine.mp4"
+    },
+    {
+        "title": "Unchained Melody",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/UnchainedMelody.mp4"
+    },
+    {
+        "title": "Wonderful Merciful Savior",
+        "artist": "Lea McShan",
+        "audio": "https://song-253.s3.amazonaws.com/Piano/WonderfulMercifulSavior.mp4"
+    }
+]
