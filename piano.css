@@ -1,0 +1,53 @@
+#music-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.piano-card {
+    background: #222226;
+    border: 1px solid #2D2D31;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.piano-card summary {
+    padding: 18px 20px;
+    color: #F7F5F0;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    list-style: none;
+}
+
+.piano-card summary::-webkit-details-marker {
+    display: none;
+}
+
+.piano-card summary::after {
+    content: "+";
+    float: right;
+    color: #B89B5E;
+    font-size: 22px;
+}
+
+.piano-card[open] summary::after {
+    content: "−";
+}
+
+.piano-card summary:hover {
+    color: #B89B5E;
+}
+
+.piano-video {
+    padding: 0 20px 20px 20px;
+}
+
+.piano-video video {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 6px;
+}

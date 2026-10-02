@@ -74,7 +74,7 @@ body {
    ========================= */
 
 main {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 60px 30px;
 }
@@ -102,34 +102,43 @@ main h1 {
 
 #music-list {
     width: 100%;
-    max-width: 700px;
-    height: 70%;
-    overflow-y: auto;
 
-    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 12px;
+
     padding: 10px;
 
     background: #17171A;
     border: 1px solid #2D2D31;
     border-radius: 10px;
+
     box-sizing: border-box;
 
     box-shadow: 0 8px 25px rgba(23, 23, 26, 0.15);
 }
 
+
+/* =========================
+   SONG CARDS
+   ========================= */
+
 .song {
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    flex-direction: column;
+    align-items: stretch;
 
-    padding: 10px 12px;
-    margin-bottom: 6px;
+    padding: 12px;
 
     background: #222226;
     border: 1px solid #2D2D31;
     border-radius: 6px;
 
-    transition: border-color 0.2s ease,
+    min-width: 0;
+
+    transition:
+        border-color 0.2s ease,
         background 0.2s ease;
 }
 
@@ -138,74 +147,109 @@ main h1 {
     border-color: #B89B5E;
 }
 
+
+/* =========================
+   SONG INFORMATION
+   ========================= */
+
 .song-info {
-    margin: 0;
+    margin: 0 0 10px;
+    min-width: 0;
 }
 
 .song-info h3 {
     margin: 0;
+
     font-size: 14px;
     font-weight: 600;
+
     color: #F7F5F0;
+
+    line-height: 1.3;
 }
 
 .song-info h2 {
     margin: 0 0 4px;
+
     font-size: 1rem;
     font-weight: 600;
+
     color: #F7F5F0;
 }
 
 .song-info p {
-    margin: 2px 0 0;
+    margin: 3px 0 0;
+
     font-size: 11px;
+
     color: #77736B;
-}
 
-
-.song audio {
-    width: 220px;
-    height: 32px;
+    line-height: 1.3;
 }
 
 
 /* =========================
    AUDIO PLAYER
-   ========================= */
+========================= */
 
 .song audio {
-    width: 280px;
+    display: block;
+
+    width: 100%;
     max-width: 100%;
+
+    height: 32px;
 }
 
 
 /* =========================
    FOOTER
-   ========================= */
+========================= */
 
 .site-footer {
     text-align: center;
+
     padding: 30px;
+
     color: #77736B;
+
     border-top: 1px solid #DEDAD1;
     background: #F7F5F0;
 }
 
 
 /* =========================
+   TABLET
+========================= */
+
+@media (max-width: 900px) {
+
+    main {
+        padding: 50px 20px;
+    }
+
+    #music-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+/* =========================
    MOBILE
-   ========================= */
+========================= */
 
 @media (max-width: 700px) {
 
     .header-inner {
         padding: 18px 20px;
+
         flex-direction: column;
+
         gap: 15px;
     }
 
     .main-nav {
-        gap: 20px;
+        gap: 15px;
     }
 
     main {
@@ -216,10 +260,14 @@ main h1 {
         font-size: 2rem;
     }
 
+    #music-list {
+        grid-template-columns: 1fr;
+
+        padding: 8px;
+        gap: 8px;
+    }
+
     .song {
-        flex-direction: column;
-        align-items: flex-start;
-        gap: 15px;
         padding: 16px;
     }
 
@@ -227,8 +275,54 @@ main h1 {
         width: 100%;
         max-width: none;
     }
+}
 
-    .main-nav {
-        gap: 15px;
+/* Piano video cards */
+
+#music-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.piano-card {
+    background: #222226;
+    border: 1px solid #2D2D31;
+    border-radius: 10px;
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: 0 8px 25px rgba(23, 23, 26, 0.15);
+}
+
+.piano-card h2 {
+    color: #F7F5F0;
+    font-size: 18px;
+    margin: 0 0 12px 0;
+}
+
+.piano-card video {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+.piano-card:hover {
+    border-color: #B89B5E;
+}
+
+/* Tablet */
+
+@media (max-width: 900px) {
+    #music-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+/* Phone */
+
+@media (max-width: 700px) {
+    #music-list {
+        grid-template-columns: 1fr;
     }
 }
